@@ -1,0 +1,18 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "portafolio version 2024",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/A-Graterol"
+  },
+  "author": "Andres Graterol",
+  "license": "ISC",
+  "dependencies": {
+    "eins-modal": "^2.2.2"
+  }
+}
