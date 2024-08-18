@@ -181,7 +181,15 @@ section.skills{
 }
 
 .about p{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+    width: 90%;
+    margin: 0 auto;
+    line-height: 1.5;
+    color: var(--secondary-light);
+}
+
+.about ul li{
+    font-size: 1.2rem;
     width: 90%;
     margin: 0 auto;
     line-height: 1.8;
@@ -189,7 +197,7 @@ section.skills{
 }
 
 .social{
-    border-left: var(--secondary) 5px solid;
+    border-left: var(--secondary) 6px solid;
     padding-left: 50px;
 }
 
