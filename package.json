@@ -14,7 +14,9 @@
   "author": "Andres Graterol",
   "license": "ISC",
   "dependencies": {
-    "eins-modal": "^2.2.2"
+    "eins-modal": "^2.2.2",
+    "live": "^0.1.19",
+    "Server": "^1.0.0"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
